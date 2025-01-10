@@ -3,6 +3,9 @@ body{
 }
 header{
     background-color: rgb(154, 255, 255);
+    font-size: 1.9em;
+    border: 2px solid #a09b9b;
+    padding: 10px;
 }
 main{
     background-color: aquamarine;
