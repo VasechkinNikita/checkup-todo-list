@@ -14,8 +14,11 @@ h1{
 main{
     background-color: aquamarine;
 }
+input{
+    line-height: 10px;
+}
 form{
     font-size: 18px;  /* размер шрифта */
     line-height: 28px;  /* высота строки (2 * 16px) */
-    padding: 3%;
+    padding: 10;
 }
