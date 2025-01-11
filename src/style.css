@@ -1,15 +1,9 @@
-header{
-    text-align: center;
-}
-header{
+div{
     background-color: rgb(154, 255, 255);
     font-size: 1.9em;
     border: 2px solid #a09b9b;
     padding: 10px;
-}
-h1{
     text-align: center;
-
 }
 main{
     background-color: aquamarine;
